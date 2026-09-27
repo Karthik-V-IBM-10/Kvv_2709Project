@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_subtype">unknown</value>
+  <value name="node_nsName">project.kvv_2709.streaming.connections</value>
+  <value name="node_pkg">Kvv_2709Project</value>
+  <record name="node_hints" javaclass="com.wm.util.Values">
+    <value name="createdBy">Karthik.V10@ibm.com</value>
+    <value name="modifiedBy">Karthik.V10@ibm.com</value>
+    <value name="createdDate">2026-09-27T18:36:00.346589614Z</value>
+    <value name="lastModifiedDate">2026-09-27T18:36:00.346589614Z</value>
+  </record>
+  <value name="is_public">false</value>
+</Values>
