@@ -1,0 +1,10 @@
+version: "1.0"
+projectName: Kvv_2709Project
+runtimes:
+- runtimeAlias: kvv_2709
+  assets:
+  - name: 180ert Workflow
+    type: workflow
+    uid: fl46c4ab93a9ac4c65a5dded7441eb2fa2
+    stepId: a0
+    reference: SIQA_TimeoutTest:delayfor180Sec
