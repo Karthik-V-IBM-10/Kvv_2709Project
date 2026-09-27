@@ -45,9 +45,8 @@
   <value name="retry_max">0</value>
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
-    <value name="createdBy">Karthik.V10@ibm.com</value>
-    <value name="createdDate">1790533222670</value>
-    <value name="lastModifiedDate">2026-09-27T18:20:22.671132119Z</value>
+    <value name="lastModifiedBy">Karthik.V10@ibm.com</value>
+    <value name="lastModifiedDate">2026-09-27T18:22:37.484551077Z</value>
     <value name="displayName">SSL_JDBC_test</value>
     <value name="description"></value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
@@ -74,14 +73,18 @@
         <value name="nodePathNew">0</value>
         <number name="nodeIndex" type="Long">0</number>
         <number name="lineNumberForDebug" type="Long">1</number>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
+        <value name="nodePathForDebug">0</value>
+        <record name="selectedRuntime" javaclass="com.wm.util.Values">
+          <value name="agentName">LOCAL</value>
+          <value name="displayName">LOCAL</value>
+          <value name="agentGroup">default</value>
+          <value name="executionPlaneType">local</value>
+        </record>
+        <Boolean name="xmlMapsetSupported">true</Boolean>
       </record>
     </record>
     <value name="modifiedBy">Karthik.V10@ibm.com</value>
-    <record name="edgeServer" javaclass="com.wm.util.Values">
-      <value name="group">Default</value>
-      <value name="id">default</value>
-      <value name="name">Cloud Execution</value>
-    </record>
   </record>
   <value name="svc_in_validator_options">none</value>
   <value name="svc_out_validator_options">none</value>
