@@ -17,17 +17,18 @@
     <value name="DADA_GlobalVariable1">1.0</value>
     <value name="SIQA_TimeoutTest">1.0</value>
     <value name="SIQAJDBCAdapterTests">1.0</value>
+    <value name="SIQACloudStreamsTests">1.0</value>
   </record>
   <null name="lazy_load_node_types"/>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">33</value>
+  <value name="build">34</value>
   <null name="description"/>
   <value name="created_date">27-09-2026 18:01:09 GMT</value>
   <null name="extendedProperties"/>
   <value name="target_server_version">12.1.0.0</value>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2026-09-27T18:39:47.235484146Z</value>
+  <value name="lastUpdated">2026-09-27T18:40:32.730486056Z</value>
   <value name="creator">Karthik V</value>
 </Values>
