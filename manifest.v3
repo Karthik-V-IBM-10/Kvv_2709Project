@@ -18,17 +18,18 @@
     <value name="SIQA_TimeoutTest">1.0</value>
     <value name="SIQAJDBCAdapterTests">1.0</value>
     <value name="SIQACloudStreamsTests">1.0</value>
+    <value name="WmSalesforceRESTProvider">12.0.0.0.24</value>
   </record>
   <null name="lazy_load_node_types"/>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">35</value>
+  <value name="build">36</value>
   <null name="description"/>
   <value name="created_date">27-09-2026 18:01:09 GMT</value>
   <null name="extendedProperties"/>
   <value name="target_server_version">12.1.0.0</value>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2026-09-27T18:42:55.270296999Z</value>
+  <value name="lastUpdated">2026-09-27T18:43:27.356720541Z</value>
   <value name="creator">Karthik V</value>
 </Values>
