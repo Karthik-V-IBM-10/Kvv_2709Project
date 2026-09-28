@@ -19,17 +19,18 @@
     <value name="SIQAJDBCAdapterTests">1.0</value>
     <value name="SIQACloudStreamsTests">1.0</value>
     <value name="WmSalesforceRESTProvider">12.0.0.0.24</value>
+    <value name="DADA_ExtendedProperty">1.0</value>
   </record>
   <null name="lazy_load_node_types"/>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">41</value>
+  <value name="build">42</value>
   <null name="description"/>
   <value name="created_date">27-09-2026 18:01:09 GMT</value>
   <null name="extendedProperties"/>
   <value name="target_server_version">12.1.0.0</value>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2026-09-27T19:03:20.403318355Z</value>
+  <value name="lastUpdated">2026-09-28T03:16:59.253876511Z</value>
   <value name="creator">Karthik V</value>
 </Values>
